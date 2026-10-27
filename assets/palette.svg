@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" width="1280" height="200" role="img" aria-label="Colour palette">
+  <rect width="1280" height="200" rx="24" fill="#FFFFFF"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g transform="translate(24 24)">
+      <rect width="138" height="96" rx="16" fill="#071E44"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Navy deep</text><text x="2" y="146" font-size="13" fill="#7A879A">#071E44</text>
+    </g>
+    <g transform="translate(178 24)">
+      <rect width="138" height="96" rx="16" fill="#0C489C"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Navy</text><text x="2" y="146" font-size="13" fill="#7A879A">#0C489C</text>
+    </g>
+    <g transform="translate(332 24)">
+      <rect width="138" height="96" rx="16" fill="#3CB4B4"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Teal</text><text x="2" y="146" font-size="13" fill="#7A879A">#3CB4B4</text>
+    </g>
+    <g transform="translate(486 24)">
+      <rect width="138" height="96" rx="16" fill="#DFF3F2"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Teal light</text><text x="2" y="146" font-size="13" fill="#7A879A">#DFF3F2</text>
+    </g>
+    <g transform="translate(640 24)">
+      <rect width="138" height="96" rx="16" fill="#F2C9C2"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Gum</text><text x="2" y="146" font-size="13" fill="#7A879A">#F2C9C2</text>
+    </g>
+    <g transform="translate(794 24)">
+      <rect width="138" height="96" rx="16" fill="#0B1B33"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Ink</text><text x="2" y="146" font-size="13" fill="#7A879A">#0B1B33</text>
+    </g>
+    <g transform="translate(948 24)">
+      <rect width="138" height="96" rx="16" fill="#4D5B70"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Body</text><text x="2" y="146" font-size="13" fill="#7A879A">#4D5B70</text>
+    </g>
+    <g transform="translate(1102 24)">
+      <rect width="154" height="96" rx="16" fill="#F4F6F9" stroke="#E2E7EE" stroke-width="2"/><text x="2" y="124" font-size="15" font-weight="700" fill="#0B1B33">Porcelain bg</text><text x="2" y="146" font-size="13" fill="#7A879A">#F4F6F9</text>
+    </g>
+  </g>
+</svg>
